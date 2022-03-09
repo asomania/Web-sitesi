@@ -1,5 +1,5 @@
 # Web sitesi
- Web sitesi adına yaptığım örnekler
+ Bitcoin anlık sitesi adına yaptığım örnekler
 kullanımı :
 
 restproxy klasörü ile terminali açıp ::  node restproxy
